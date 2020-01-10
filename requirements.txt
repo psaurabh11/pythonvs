@@ -1,0 +1,5 @@
+SpeechRecognition
+selenium
+requests
+pyttsx3
+datetime
