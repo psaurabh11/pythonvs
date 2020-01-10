@@ -14,6 +14,7 @@ It works same as `GoogleAssistant` or `Siri`. It can understand our voice,and ac
 - Make sure you install these packages before moving forward to other python libraries.<br />
   Run below command to install them all.<br />
 `pip install -r requirements.txt`
+- You will need `Chrome Driver` to able to open pages. Firstly you need to check you Chrome Browser Version and download according to that [Chromium Driver](https://chromedriver.chromium.org/downloads).
 
 **Individual packages listed as follows:**
 
