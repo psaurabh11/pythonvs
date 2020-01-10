@@ -39,19 +39,19 @@ After downloading the file install it in the project directory
 ## Installation
 ```
 # Clone the repository (stable branch)
-git clone  master https://github.com/leon-ai/leon.git leon
+git clone https://github.com/psaurabh11/pythonvs.git
 
 # Go to the project root
-cd pythonvs
+**cd pythonvs**
 
 # Activate Virtual Environment
-venv/Scripts/activate
+**venv/Scripts/activate**
 
 # Perform prerequisites
-pip install -r requirements
+**pip install -r requirements**
 
 # Run main.py
-python main.py
+**python main.py**
 ```
 
 ## How to use
