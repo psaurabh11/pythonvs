@@ -10,25 +10,26 @@ It works same as `GoogleAssistant` or `Siri`. It can understand our voice,and ac
 
 ## Getting Started
 **Prerequisites**
-- Python >= 3
+- Python >= 3<br />
 Make sure you install these packages before moving forward to other python libraries.<br />
-You can run `pip install -r requirements.txt` to install them all.
+You can run below to install them all.<br />
+`pip install -r requirements.txt`
 
 **Individual packages listed as follows:**
 
-- Speech Recognition
+- Speech Recognition<br />
 `pip install SpeechRecognition`
 
-- pyttsx3: (Offline Text to Speech Service)
+- pyttsx3: (Offline Text to Speech Service)<br />
 `pip install pyttsx3`
 
-- selenium: (To open webpages)
+- selenium: (To open webpages)<br />
 `pip install selenium`
 
-- requests: (To request)
+- requests: (To request)<br />
 `pip install requests`
 
-- datetime: (To get system Date & Time)
+- datetime: (To get system Date & Time)<br />
 `pip install datetime`
 
 - If any of the `Library` is getting error in installation you can download `.whl` for<br />
@@ -37,20 +38,20 @@ manual installation [Link](https://www.lfd.uci.edu/~gohlke/pythonlibs/).After do
 
 ## Installation
 ```
-- Clone the repository (stable branch)
-git clone https://github.com/psaurabh11/pythonvs.git
+# Clone the repository (stable branch)
+'git clone https://github.com/psaurabh11/pythonvs.git'
 
-- Go to the project root
-cd pythonvs
+# Go to the project root
+'cd pythonvs'
 
 # Activate Virtual Environment
-venv/Scripts/activate
+'venv/Scripts/activate'
 
 # Perform prerequisites
-pip install -r requirements
+'pip install -r requirements'
 
 # Run main.py
-python main.py
+'python main.py'
 ```
 
 ## How to use
