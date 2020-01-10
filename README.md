@@ -10,10 +10,13 @@ It works same as `GoogleAssistant` or `Siri`. It can understand our voice,and ac
 
 ## Getting Started
 **Prerequisites**
-- Python >= 3<br />
-- Make sure you install these packages before moving forward to other python libraries.<br />
-  Run below command to install them all.<br />
-`pip install -r requirements.txt`
+- Python >= 3
+- Firstly you need **PIP** to be installed to install other packages [How to install PIP](https://pip.pypa.io/en/stable/installing/).
+- After that you need **Virtual Environment**<br />
+`pip install virtualenv `
+- Now we have to create **Virtual Environment** to **Project Directory**<br />
+`virtualenv venv`<br />
+  and **venv** named folder will be created in project directory.
 - You will need `Chrome Driver` to able to open pages. Firstly you need to check you Chrome Browser Version and download according to that [Chromium Driver](https://chromedriver.chromium.org/downloads).
 
 **Individual packages listed as follows:**
