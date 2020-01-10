@@ -9,12 +9,12 @@ It works same as `GoogleAssistant` or `Siri`. It can understand our voice,and ac
 - Tells the current time and/or date (e.g 'tell me time or date')
 
 ## Getting Started
-###### Prerequisites
+**Prerequisites**
 - Python >= 3
-Make sure you install these packages before moving forward to other python libraries
+Make sure you install these packages before moving forward to other python libraries.<br />
 You can run `pip install -r requirements.txt` to install them all.
 
-Individual packages listed as follows:
+**Individual packages listed as follows:**
 
 - Speech Recognition
 `pip install SpeechRecognition`
@@ -31,7 +31,8 @@ Individual packages listed as follows:
 - datetime: (To get system Date & Time)
 `pip install datetime`
 
-- If any of the `Library` is getting error in installation you can download `.whl` for manual installation [Link] (https://www.lfd.uci.edu/~gohlke/pythonlibs/).
+- If any of the `Library` is getting error in installation you can download `.whl` for<br />
+manual installation [Link](https://www.lfd.uci.edu/~gohlke/pythonlibs/).<br />
 After downloading the file install it in the project directory
 `pip install filename.whl`
 
