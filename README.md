@@ -57,10 +57,10 @@ python main.py
 
 ## How to use
 
--First it will be Listening for the `Startup Command`, below are the startup commands
+- First it will be Listening for the `Startup Command`, below are the startup commands
 > ['activate','hey nemo','wake up','hey google','ok google']
 
--Then you can say `Some Tasks` like
+- Then you can say `Some Tasks` like
 > open google chrome,<br />
 > What's the time,<br />
 > close google chrome<br />
