@@ -32,26 +32,25 @@ You can run `pip install -r requirements.txt` to install them all.
 `pip install datetime`
 
 - If any of the `Library` is getting error in installation you can download `.whl` for<br />
-manual installation [Link](https://www.lfd.uci.edu/~gohlke/pythonlibs/).<br />
-After downloading the file install it in the project directory
+manual installation [Link](https://www.lfd.uci.edu/~gohlke/pythonlibs/).After downloading the file install it in the project directory
 `pip install filename.whl`
 
 ## Installation
 ```
-# Clone the repository (stable branch)
+- Clone the repository (stable branch)
 git clone https://github.com/psaurabh11/pythonvs.git
 
-# Go to the project root
-**cd pythonvs**
+- Go to the project root
+cd pythonvs
 
 # Activate Virtual Environment
-**venv/Scripts/activate**
+venv/Scripts/activate
 
 # Perform prerequisites
-**pip install -r requirements**
+pip install -r requirements
 
 # Run main.py
-**python main.py**
+python main.py
 ```
 
 ## How to use
