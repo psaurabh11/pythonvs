@@ -37,8 +37,8 @@ After downloading the file install it in the project directory
 `pip install filename.whl`
 
 ## Installation
-
-`# Clone the repository (stable branch)
+```
+# Clone the repository (stable branch)
 git clone  master https://github.com/leon-ai/leon.git leon
 
 # Go to the project root
@@ -51,7 +51,8 @@ venv/Scripts/activate
 pip install -r requirements
 
 # Run main.py
-python main.py`
+python main.py
+```
 
 ## How to use
 
