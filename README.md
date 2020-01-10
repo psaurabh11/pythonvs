@@ -10,7 +10,7 @@ It works same as `GoogleAssistant` or `Siri`. It can understand our voice,and ac
 
 ## Getting Started
 **Prerequisites**
-- Python >= 3<br /><br />
+- Python >= 3<br />
 - Make sure you install these packages before moving forward to other python libraries.<br />
   Run below command to install them all.<br />
 `pip install -r requirements.txt`
@@ -67,6 +67,9 @@ python main.py
 etc
 
 - After each `Task` it will be listening for `Startup Command`
+
+- For Exit or Shutdown you can say these `Closing Commands`
+> ['shutdown','quit','exit','shutup']
 
 - I have tried to make it as similar as other virtual assistants.
 
