@@ -10,9 +10,9 @@ It works same as `GoogleAssistant` or `Siri`. It can understand our voice,and ac
 
 ## Getting Started
 **Prerequisites**
-- Python >= 3<br />
+- Python >= 3<br /><br />
 Make sure you install these packages before moving forward to other python libraries.<br />
-You can run below to install them all.<br />
+Run below command to install them all.<br />
 `pip install -r requirements.txt`
 
 **Individual packages listed as follows:**
@@ -37,36 +37,40 @@ manual installation [Link](https://www.lfd.uci.edu/~gohlke/pythonlibs/).After do
 `pip install filename.whl`
 
 ## Installation
-```
+
+```sh
 # Clone the repository (stable branch)
-'git clone https://github.com/psaurabh11/pythonvs.git'
+git clone https://github.com/psaurabh11/pythonvs.git
 
 # Go to the project root
-'cd pythonvs'
+cd pythonvs
 
 # Activate Virtual Environment
-'venv/Scripts/activate'
+venv/Scripts/activate
 
 # Perform prerequisites
-'pip install -r requirements'
+pip install -r requirements
 
 # Run main.py
-'python main.py'
+python main.py
 ```
 
 ## How to use
 
-First it will be Listening for the `Startup Command`, below are the startup commands
+-First it will be Listening for the `Startup Command`, below are the startup commands
 > ['activate','hey nemo','wake up','hey google','ok google']
 
-Then you can say `Some Tasks` like
-> open google chrome
-> Whats the time
-> close google chrome
+-Then you can say `Some Tasks` like
+> open google chrome<br />
+> Whats the time<br />
+> close google chrome<br />
 etc
 
-After each `Task` it will be listening for `Startup Command`
-I have tried to make it as similar as other virtual assistants.
+-After each `Task` it will be listening for `Startup Command`
 
-> You can add more functionalities
+-I have tried to make it as similar as other virtual assistants.
+
+- You can add more functionalities
+
+## Cheers!
 
