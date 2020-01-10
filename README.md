@@ -14,9 +14,6 @@ It works same as `GoogleAssistant` or `Siri`. It can understand our voice,and ac
 - Firstly you need **PIP** to be installed to install other packages [How to install PIP](https://pip.pypa.io/en/stable/installing/).
 - After that you need **Virtual Environment**<br />
 `pip install virtualenv `
-- Now we have to create **Virtual Environment** to **Project Directory**<br />
-`virtualenv venv`<br />
-  and **venv** named folder will be created in project directory.
 - You will need `Chrome Driver` to able to open pages. Firstly you need to check you Chrome Browser Version and download according to that [Chromium Driver](https://chromedriver.chromium.org/downloads).
 
 **Individual packages listed as follows:**
@@ -49,6 +46,9 @@ git clone https://github.com/psaurabh11/pythonvs.git
 # Go to the project root
 cd pythonvs
 
+# Now we have to create Virtual Environment to Project Directory and venv named folder will be created in project directory.
+virtualenv venv
+ 
 # Activate Virtual Environment
 venv/Scripts/activate
 
