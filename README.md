@@ -1,3 +1,4 @@
+![VSImage](https://i0.wp.com/www.acelerartech.com/wp-content/uploads/2017/01/Reasons-to-use-a-virtual-assistant_chapt3.png)
 # Virtual Assistant
 It works same as `GoogleAssistant` or `Siri`. It can understand our voice,and accordingly execute commands.
 
